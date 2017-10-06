@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ligula elit, iacu
 Fusce commodo tincidunt nisl, ac sollicitudin eros mattis rutrum. Aenean consequat pellentesque sapien, ac pellentesque ipsum ornare a. Nam hendrerit imperdiet orci, quis rhoncus sapien accumsan in. Morbi dignissim auctor mi non commodo. Nullam vel sem eget lectus semper scelerisque. Curabitur commodo iaculis est, vel interdum tortor vulputate et. Etiam euismod leo eget mi laoreet, non fermentum ipsum ultricies. Donec sed augue ut diam congue auctor. Phasellus iaculis arcu at feugiat rutrum. Nulla mattis tortor quis tempus ultricies. Praesent quis quam mattis, lobortis tortor vel, pretium nisl.
 
 ### Image
-! [Image of a French Bulldog] 
+![Image ofa dog]
 ( https://www.pinterest.com.mx/pin/313563192783389783/ )
 
 
