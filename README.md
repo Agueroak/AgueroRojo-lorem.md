@@ -93,5 +93,7 @@ Curabitur eget risus ut sapien tincidunt lobortis sagittis ut turpis. Donec id a
 Vestibulum vitae magna aliquet, blandit tortor in, porttitor ex. Integer et fermentum nulla. Duis in mauris feugiat, cursus risus id, lobortis purus. In condimentum euismod libero dignissim vulputate. Nam vel imperdiet risus. Fusce ac est quis nibh tempor tempus id et dolor. Donec quis elementum enim, sed elementum mi. Donec nec aliquam nibh. Maecenas euismod et.
 
 [^footnote]:HOW, [TO ADD FOOTNOTES](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
+
+
 [^footnote2]: Footnote2, [FOOTNOTE2](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
 
