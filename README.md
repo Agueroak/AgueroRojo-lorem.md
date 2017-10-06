@@ -3,7 +3,7 @@ First-Exercise
 
 **FIRSTEXERCISE
 
-Title|Name|Date 
+Title|Author|Date 
 -----|----|----
 FirstExercise|Ana Karen Aguero Rojo|October 6th, 2017
 
