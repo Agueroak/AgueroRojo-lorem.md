@@ -1,6 +1,10 @@
 # AgueroRojo-lorem.md
 First-Exercise
+
 **FIRSTEXERCISE
+
+by @agueroak
+
 
 # Section 1 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies imperdiet pellentesque. Etiam a dapibus erat. Ut leo massa, blandit et ante in, ornare semper ipsum. Quisque dictum augue turpis, in bibendum massa rhoncus vitae. Vivamus auctor eros sed augue suscipit semper vel a quam. Vivamus semper accumsan est, maximus tincidunt tellus sagittis nec. Etiam nec aliquam orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
