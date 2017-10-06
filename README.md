@@ -1,14 +1,14 @@
 # AgueroRojo-lorem.md
-** First-Exercise **
+First-Exercise
+**FIRSTEXERCISE
 
 # Section 1 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultricies imperdiet pellentesque. Etiam a dapibus erat. Ut leo massa, blandit et ante in, ornare semper ipsum. Quisque dictum augue turpis, in bibendum massa rhoncus vitae. Vivamus auctor eros sed augue suscipit semper vel a quam. Vivamus semper accumsan est, maximus tincidunt tellus sagittis nec. Etiam nec aliquam orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Morbi a sapien dapibus tortor commodo aliquet id sed elit. Nam erat magna, aliquam quis orci sit amet, feugiat consequat velit. Nulla facilisi. Duis lacinia arcu et ultrices sollicitudin. Ut nec turpis congue, laoreet quam nec, vulputate urna. Sed nec sem pretium, tincidunt erat ut, accumsan ex. Cras fermentum cursus lacus. Nulla sollicitudin turpis nec sollicitudin fringilla. Cras erat velit, volutpat et justo sed, viverra eleifend mi. Donec risus ipsum, ullamcorper sed euismod eu, malesuada at sapien. Cras ut lacinia nulla, a blandit augue. Etiam accumsan placerat diam, et faucibus ante auctor malesuada. Pellentesque nulla metus, auctor in nunc et, lobortis dapibus odio. Cras malesuada ac mi vitae molestie. Vestibulum eget odio gravida metus pulvinar facilisis et et erat. In eget ex pharetra, volutpat ipsum at, molestie metus.
-
 ### Section1.1
 [LinktoLoremIpsum](http://www.lipsum.com/feed/html)
 
+Morbi a sapien dapibus tortor commodo aliquet id sed elit. Nam erat magna, aliquam quis orci sit amet, feugiat consequat velit. Nulla facilisi. Duis lacinia arcu et ultrices sollicitudin. Ut nec turpis congue, laoreet quam nec, vulputate urna. Sed nec sem pretium, tincidunt erat ut, accumsan ex. Cras fermentum cursus lacus. Nulla sollicitudin turpis nec sollicitudin fringilla. Cras erat velit, volutpat et justo sed, viverra eleifend mi. Donec risus ipsum, ullamcorper sed euismod eu, malesuada at sapien. Cras ut lacinia nulla, a blandit augue. Etiam accumsan placerat diam, et faucibus ante auctor malesuada. Pellentesque nulla metus, auctor in nunc et, lobortis dapibus odio. Cras malesuada ac mi vitae molestie. Vestibulum eget odio gravida metus pulvinar facilisis et et erat. In eget ex pharetra, volutpat ipsum at, molestie metus.
 
 # Section 2 
 
@@ -56,9 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ligula elit, iacu
 Fusce commodo tincidunt nisl, ac sollicitudin eros mattis rutrum. Aenean consequat pellentesque sapien, ac pellentesque ipsum ornare a. Nam hendrerit imperdiet orci, quis rhoncus sapien accumsan in. Morbi dignissim auctor mi non commodo. Nullam vel sem eget lectus semper scelerisque. Curabitur commodo iaculis est, vel interdum tortor vulputate et. Etiam euismod leo eget mi laoreet, non fermentum ipsum ultricies. Donec sed augue ut diam congue auctor. Phasellus iaculis arcu at feugiat rutrum. Nulla mattis tortor quis tempus ultricies. Praesent quis quam mattis, lobortis tortor vel, pretium nisl.
 
 ### Image
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
+![image](https://es.pinterest.com/pin/511299363937408498/)
 
 # Section 5 
 Etiam eu felis vitae quam aliquam egestas in non nibh. Praesent ipsum erat, iaculis a sem placerat, dignissim hendrerit nisl. Praesent eros tellus, laoreet a blandit quis, maximus a lacus. Ut bibendum a magna nec dignissim. Donec iaculis est at consectetur mollis. Vestibulum maximus, mauris id consectetur rutrum, quam elit cursus ligula, eu tempus nunc ligula vitae magna. Ut lorem eros, varius ut blandit quis, ornare et leo. Praesent aliquam ex erat. Quisque tempus erat ex, in mollis quam tempor id. Fusce vel sem et neque scelerisque ultrices.
@@ -69,7 +67,7 @@ Proin a rutrum neque. Phasellus nec tempor eros. Vivamus ut egestas erat. Nulla 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacus augue, rhoncus eget tortor et, tempor dignissim tellus. Proin sed lobortis est, et placerat enim. Suspendisse potenti. Nunc bibendum suscipit magna in vehicula. Morbi bibendum malesuada arcu eu varius. Quisque eget ex scelerisque, commodo mi at, iaculis elit. Nulla suscipit ultrices erat vel convallis. Morbi leo leo, lacinia a congue quis, pellentesque ut arcu. Duis fermentum arcu nec arcu commodo, sodales posuere enim scelerisque. Aenean erat eros, vehicula eu enim vel, ultricies consequat turpis. Cras consectetur ex nec arcu consequat, sit amet dictum nunc mattis. Proin cursus mauris et elit imperdiet vulputate. Sed vel consequat lectus. Pellentesque condimentum ac augue vitae accumsan. Praesent lacus nibh, vestibulum a bibendum ac, congue vel libero.
 
-# Section 6
+# Section 6 
 Duis sodales justo sit amet est suscipit, sollicitudin finibus ex imperdiet. In quam justo, dapibus vitae felis at, volutpat varius lectus. Maecenas sagittis metus at velit sollicitudin vulputate. Sed volutpat enim nec porta pulvinar. Ut laoreet lorem sit amet orci sagittis, in dignissim dolor placerat. Duis nec nibh consectetur, eleifend risus non, cursus diam. Phasellus gravida, sem a scelerisque sollicitudin, ex sem iaculis mi, quis aliquet sapien nisl vitae lacus. In eget interdum ante. Donec at quam mauris. Nunc luctus diam leo, et mollis est efficitur sit amet.
 
 Vestibulum eu metus dictum, auctor dui a, fringilla tellus. Fusce scelerisque tempor scelerisque. Suspendisse potenti. Donec non leo ut dui interdum iaculis in eu diam. Praesent hendrerit lorem vel pharetra pellentesque. Fusce nulla dui, ultrices a vestibulum vehicula, cursus at nibh. Sed augue nisl, iaculis at fringilla ut, iaculis ac nisi. Sed sem arcu, malesuada bibendum nunc vel, mollis euismod arcu. Sed vestibulum finibus accumsan. Nunc non nulla arcu.
