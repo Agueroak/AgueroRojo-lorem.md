@@ -40,7 +40,7 @@ Suspendisse elementum pellentesque ullamcorper. Praesent mattis mattis augue sit
 
 Morbi eu euismod est. Aliquam in leo dictum, tempus arcu vulputate, tristique ipsum. Donec et placerat lectus. Cras sagittis elit ut magna placerat, in laoreet purus feugiat. Etiam venenatis risus at ante varius mollis. Curabitur laoreet ut erat quis tempus. Ut facilisis faucibus erat, nec fringilla quam aliquet a. Nam in suscipit leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque lacinia magna non nulla rhoncus gravida. Duis vitae ultricies sapien. Nam neque ligula, sagittis id euismod et, consequat sit amet enim. Maecenas consequat quam leo, quis tincidunt magna lacinia vitae.
 
-## Section 3.2 [^footnote]
+## Section 3.2 [^f1]
 Donec porta eleifend odio, ac porta arcu suscipit non. Integer euismod metus eget nibh cursus, sit amet egestas nibh rhoncus. Vivamus sollicitudin ligula cursus, elementum lorem non, hendrerit libero. Curabitur at commodo libero, gravida dictum est. Mauris id tincidunt risus. Sed dictum, magna eget lobortis pulvinar, est arcu volutpat velit, ut luctus ex sapien non felis. Nulla dictum est quis nibh facilisis tristique. Quisque ipsum odio, euismod sit amet aliquet ut, tempor nec est. Proin dapibus mauris sit amet ex aliquam, sit amet fringilla massa gravida. Vestibulum eget molestie turpis, id ultrices libero. Curabitur tempor gravida ante. In hac habitasse platea dictumst. Etiam at ullamcorper urna, in consequat felis.
 
 Donec rhoncus, eros quis venenatis accumsan, lorem nibh mollis odio, vitae lacinia leo turpis sit amet eros. Duis ut arcu nec mi dignissim malesuada. Sed quis scelerisque arcu. Etiam diam elit, ornare eget dictum in, vulputate ut nibh. Donec tortor nisi, tincidunt ac malesuada ac, luctus vel nunc. Nulla tempus luctus lorem sed euismod. Donec nec eros finibus diam posuere hendrerit vitae commodo nibh. Quisque rutrum vulputate urna id dignissim. Proin consectetur tortor malesuada purus ultricies laoreet. Suspendisse potenti. Proin at mollis purus, vitae elementum metus. Sed quis dolor hendrerit, facilisis ligula facilisis, tincidunt arcu. Aliquam dapibus erat vitae malesuada tempus. Duis elementum varius risus, nec viverra mauris vehicula vel. Etiam ut mauris in sapien maximus luctus. Suspendisse potenti.
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacus augue, 
 ![image](http://media.gettyimages.com/photos/vogue-red-white-and-blue-logo-illustration-of-woman-in-gold-gown-the-picture-id592330323)
 
 # Section 6 
-Duis sodales justo sit amet est suscipit, sollicitudin finibus ex imperdiet. In quam justo, dapibus vitae felis at, volutpat varius lectus. Maecenas sagittis metus at velit sollicitudin vulputate. Sed volutpat enim nec porta pulvinar. Ut laoreet lorem sit amet orci sagittis, in dignissim dolor placerat. Duis nec nibh consectetur, eleifend risus non, cursus diam. Phasellus gravida, sem a scelerisque sollicitudin, ex sem iaculis mi, quis aliquet sapien nisl vitae lacus. In eget interdum ante. Donec at quam mauris. Nunc luctus diam leo, et mollis est efficitur sit amet [^footnote2].
+Duis sodales justo sit amet est suscipit, sollicitudin finibus ex imperdiet. In quam justo, dapibus vitae felis at, volutpat varius lectus. Maecenas sagittis metus at velit sollicitudin vulputate. Sed volutpat enim nec porta pulvinar. Ut laoreet lorem sit amet orci sagittis, in dignissim dolor placerat. Duis nec nibh consectetur, eleifend risus non, cursus diam. Phasellus gravida, sem a scelerisque sollicitudin, ex sem iaculis mi, quis aliquet sapien nisl vitae lacus. In eget interdum ante. Donec at quam mauris. Nunc luctus diam leo, et mollis est efficitur sit amet [^f2].
 
 Vestibulum eu metus dictum, auctor dui a, fringilla tellus. Fusce scelerisque tempor scelerisque. Suspendisse potenti. Donec non leo ut dui interdum iaculis in eu diam. Praesent hendrerit lorem vel pharetra pellentesque. Fusce nulla dui, ultrices a vestibulum vehicula, cursus at nibh. Sed augue nisl, iaculis at fringilla ut, iaculis ac nisi. Sed sem arcu, malesuada bibendum nunc vel, mollis euismod arcu. Sed vestibulum finibus accumsan. Nunc non nulla arcu.
 
@@ -92,9 +92,9 @@ Curabitur eget risus ut sapien tincidunt lobortis sagittis ut turpis. Donec id a
 
 Vestibulum vitae magna aliquet, blandit tortor in, porttitor ex. Integer et fermentum nulla. Duis in mauris feugiat, cursus risus id, lobortis purus. In condimentum euismod libero dignissim vulputate. Nam vel imperdiet risus. Fusce ac est quis nibh tempor tempus id et dolor. Donec quis elementum enim, sed elementum mi. Donec nec aliquam nibh. Maecenas euismod et.
 
-[^footnote]:HOW, [TO ADD FOOTNOTES](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
+[^f1]: HOW, [TO ADD FOOTNOTES](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
 
 
-[^footnote2]: Footnote2, [FOOTNOTE2](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
+[^f2]: Footnote2, [FOOTNOTE2](https://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown)
 
 
