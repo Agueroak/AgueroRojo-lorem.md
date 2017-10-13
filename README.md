@@ -1,4 +1,4 @@
-# AgueroRojo-lorem.md
+# aguerorojo-lorem.md
 First-Exercise
 
 **FIRSTEXERCISE
